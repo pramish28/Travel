@@ -1,0 +1,26 @@
+.hero{
+  display: flexbox;
+  flex-direction: column;
+}
+.hero-image{
+max-width:300px;
+align-self: center;
+padding: 10px;
+
+}
+.hero-header{
+  margin-bottom: 16px;
+
+
+}
+.section{
+  padding: 20px;
+}
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
+.hero--text {
+  margin-top: 0;
+}
+  
